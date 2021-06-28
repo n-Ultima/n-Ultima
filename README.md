@@ -8,7 +8,7 @@ Hello there! My name is Ultima, and I am a programmer who aims to become a Compu
 * Anything I publish is free to use, unless otherwise stated.
 * If you need help with anything, you are free to add me on Discord.
 # Social Medias
-<img src="discord.png" height = 30> Ultima#8878 <br> <img src="twitter-logo-3.png" height = 30> <a href="http://www.twitter.com/n_Ultima_"> n_Ultima_ <br> <img src="discord.png" height = 30> <a href="https://discord.gg/W5GKUF5VQp"> Moment's Reprieve <br> <img src="twitch.png" height = 30> <a href="https://twitch/tv/n_Ultima"> n_Ultima
+<img src="discord.png" height = 30> Ultima#8878 <br> <img src="twitter-logo-3.png" height = 30> <a href="http://www.twitter.com/n_Ultima_"> n_Ultima_ <br> <img src="discord.png" height = 30> <a href="https://discord.gg/kdmJJWNVvp"> The Ultima Discord <br> <img src="twitch.png" height = 30> <a href="https://twitch/tv/n_Ultima"> n_Ultima
 
 
 
