@@ -1,5 +1,5 @@
 # Introduction
-Hello there! My name is Ultima, and I am a programmer who aims to become a Computer Science Teacher!
+Certified...
 # Languages
 <img src="csharp.png" height = 70/> <img src="python.png" height = 70/>
 # Currently Learning
@@ -8,7 +8,7 @@ Hello there! My name is Ultima, and I am a programmer who aims to become a Compu
 * Anything I publish is free to use, unless otherwise stated.
 * If you need help with anything, you are free to add me on Discord.
 # Social Medias
-<img src="discord.png" height = 30> Ultima#2000 <br> <img src="discord.png" height = 30> <a href="https://discord.gg/kdmJJWNVvp"> The Ultima Discord <br> <img src="twitch.png" height = 30> <a href="https://twitch/tv/n_Ultima"> n_Ultima
+<img src="discord.png" height = 30> n.ultima <br> <img src="twitch.png" height = 30> <a href="https://twitch/tv/n_Ultima"> n_Ultima
 
 
 
